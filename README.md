@@ -1,0 +1,1 @@
+This bash script was created for my blog post - Adjusting External Monitor Brightness on Ubuntu 25.04: A Comprehensive Guide - https://techstoriesindia.com/adjusting-external-monitor-brightness-ubuntu/
